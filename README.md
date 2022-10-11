@@ -25,7 +25,7 @@
 | SHA-256	| ff3314edb763b7a670d2a2eb330fbdd633727d8cdb7e53534075d9c32eb8e991 |
 | VirusTotal | [https://www.virustotal.com/gui/file/ff3314edb763b7a670d2a2eb330fbdd6337...](https://www.virustotal.com/gui/file/ff3314edb763b7a670d2a2eb330fbdd633727d8cdb7e53534075d9c32eb8e991) |
 ### Service Tool v4718
-#### [Скачать Service Tool v4718](https://google.com)
+#### [Скачать Service Tool v4718](https://github.com/shpgn/service_tool_canon/releases/download/ServiceTool/ServiceTool_v4718.zip)
 | Ключ | Значение |
 | ---- | -------- |
 | Имя файла | ServiceTool_v4718.exe |
