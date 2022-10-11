@@ -2,10 +2,10 @@
 В этом репозитории будут храниться актуальные версии программы Service Tool, с помощью которой \
 можно "сбросить памперс" и провести другое сервисное обслуживание вашего принтера Canon
 ## Инструкция
-Актуальная инструкция по сбросу лежит на странице [@shpagin/service_tool]
+Актуальная инструкция по сбросу лежит на странице [@shpagin/canon](https://teletype.in/@shpagin/canon)
 ## Скачать
 ### Service Tool v5103
-#### [Скачать Service Tool v5103](https://google.com)
+#### [Скачать Service Tool v5103](https://github.com/shpgn/service_tool_canon/releases/download/ServiceTool_v5103/ServiceTool_v5103.zip)
 | Ключ | Значение |
 | ---- | -------- |
 | Имя файла | ServiceTool_v5103.exe |
@@ -15,7 +15,7 @@
 | SHA-256	| 98ca97b37a36a73d1a91630b8bde455b7dd109960073a0369295e34be6317c48 |
 | VirusTotal | [https://www.virustotal.com/gui/file/98ca97b37a36a73d1a91630b8bde455b7d...](https://www.virustotal.com/gui/file/98ca97b37a36a73d1a91630b8bde455b7dd109960073a0369295e34be6317c48) |
 ### Service Tool v4906
-#### [Скачать Service Tool v4906](https://google.com)
+#### [Скачать Service Tool v4906](https://github.com/shpgn/service_tool_canon/releases/download/ServiceTool_v4906/ServiceTool_v4906.zip)
 | Ключ | Значение |
 | ---- | -------- |
 | Имя файла | ServiceTool_v4906.exe |
